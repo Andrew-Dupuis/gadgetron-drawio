@@ -2,7 +2,9 @@
 Generate Draw.io Diagrams from Gadgetron Configuration XMLs
 
 ## Usage 
-python gadgetron_to_drawio.py {path-to-gadgetron-config.xml}
+
+1. python gadgetron_to_drawio.py {path-to-gadgetron-config.xml}
+2. Resulting DrawIO diagram (.drawio) is placed next to original configuration, and can be opened in local Draw.IO instance, online, or via the VSCode extension
 
 ## Examples
 Below are the diagrams for "default.xml" and "Generic_Cartesian_Spirit.xml"
