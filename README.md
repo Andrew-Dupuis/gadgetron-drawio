@@ -1,5 +1,5 @@
 # gadgetron-drawio
-Generate Draw.io Diagrams from Gadgetron Configuration XMLs
+Directly Generate Draw.io Diagrams from Gadgetron Configuration XMLs
 
 ## Usage 
 
